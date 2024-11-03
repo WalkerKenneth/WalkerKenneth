@@ -1,4 +1,6 @@
-## Hello, this is me Kenneth Walker 👋
+## Hello, this is me Kenneth
+
+# Web Developer - Web3 Developer
 
 <!--
 **WalkerKenneth/WalkerKenneth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
