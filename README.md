@@ -1,7 +1,7 @@
 # 👨‍💻 Kenneth Walker Fernandez | Software Engineer
 
-🌐 **LinkedIn**: [kenneth-walker-fernandez](https://www.linkedin.com/in/kenneth-walker-fernandez/)  
-🐦 **Twitter**: [Walken95](https://x.com/Walken95)  
+🌐 **LinkedIn**: [Kenneth Walker](https://www.linkedin.com/in/kenneth-walker-fernandez/)  
+🐦 **Twitter**: [@Walken95](https://x.com/Walken95)  
 📧 **Email**: kennethesteban@hotmail.com
 
 ---
